@@ -1,5 +1,4 @@
 # Gauss_formulas  
-Using quadrature formulas for rectangles, trapezoids, parabolas, and Gaussian formulas (four-point and five-point), this program calculates integrals of given functions with given accuracy ε.  
   
 Using the quadrature formulas of rectangles, trapezoids, parabolas,   
 and Gaussian formulas (four-point and five-point),   
